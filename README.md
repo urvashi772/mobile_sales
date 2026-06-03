@@ -83,3 +83,10 @@ This dashboard can be effectively used by **sales managers, business analysts, a
 * **Excel / CSV** as data source
 * **Maps, KPI Cards, Line Charts, Bar Charts, Pie Charts, Slicers**
 
+<img width="1329" height="755" alt="Screenshot 2026-01-17 095834" src="https://github.com/user-attachments/assets/98814fc5-1c3a-4163-96c1-23d01ee36012" />
+
+<img width="1331" height="758" alt="Screenshot 2026-01-17 095845" src="https://github.com/user-attachments/assets/acb581cf-49b6-4ce3-811e-7571ffebda53" />
+
+<img width="1315" height="748" alt="Screenshot 2026-01-17 095856" src="https://github.com/user-attachments/assets/b8d8a74a-7546-4147-bbdb-b299106643ce" />
+<img width="1220" height="517" alt="Screenshot 2026-01-17 095907" src="https://github.com/user-attachments/assets/0090d8df-7598-4ccb-8e31-3a900f56ceba" />
+
